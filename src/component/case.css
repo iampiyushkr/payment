@@ -1,0 +1,16 @@
+.case {
+  width: 120px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  margin-left: 30px;
+}
+.gift {
+  font-size: 40px;
+  font-weight: bolder;
+  margin-left: 30px;
+}
+.Date {
+  margin-left: 30px;
+}
